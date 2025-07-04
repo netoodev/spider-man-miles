@@ -31,6 +31,11 @@ p {
   line-height: 140%;
 }
 
+.border {
+  border: 1px solid red;
+}
+
 @import 'partials/layout';
 @import 'partials/menu';
 @import 'partials/animations';
+@import 'partials/spacing';
